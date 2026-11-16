@@ -1,0 +1,16 @@
+eva_id,station_name,state,delay_factor
+8000105,Frankfurt (Main) Hbf,Hessen,1.35
+8070003,Frankfurt (M) Flughafen Fernbf,Hessen,1.20
+8000115,Fulda,Hessen,1.05
+8003200,Kassel-Wilhelmshöhe,Hessen,1.00
+8000207,Köln Hbf,Nordrhein-Westfalen,1.45
+8000085,Düsseldorf Hbf,Nordrhein-Westfalen,1.30
+8000080,Dortmund Hbf,Nordrhein-Westfalen,1.25
+8000261,München Hbf,Bayern,1.10
+8000284,Nürnberg Hbf,Bayern,1.00
+8000096,Stuttgart Hbf,Baden-Württemberg,1.15
+8000244,Mannheim Hbf,Baden-Württemberg,1.20
+8002549,Hamburg Hbf,Hamburg,1.30
+8011160,Berlin Hbf,Berlin,1.05
+8000152,Hannover Hbf,Niedersachsen,1.10
+8010205,Leipzig Hbf,Sachsen,0.90
